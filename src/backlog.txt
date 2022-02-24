@@ -1,0 +1,9 @@
+[ ] Eslint e Prettier
+[X] Tema com Material UI
+    - mui
+    - emotion
+    - styled-components
+    - fonts, icons e svgIcons
+    - Cores da id
+    - Fontes da id
+[ ] Rotas com React Router Dom

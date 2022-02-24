@@ -1,9 +1,8 @@
 import { pxToRem, responsiveFontSizes } from "../utils/getFontValue";
-import Isidora from "../assets/fonts/Isidora-Black.otf";
 
 // ----------------------------------------------------------------------
 
-const FONT_PRIMARY = "Isidora"; // Google Font
+const FONT_PRIMARY = "IsadoraBlack, sans-serif"; // Google Font
 // const FONT_SECONDARY = 'CircularStd, sans-serif'; // Local Font
 
 const typography = {
